@@ -1,1 +1,3 @@
 #ello
+
+print (10)
